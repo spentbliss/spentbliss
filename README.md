@@ -17,6 +17,12 @@
   <!-- Linux --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
+   <!-- Docker -->
+  <img src="https://img.icons8.com/fluency/48/docker.png" width="40" height="40"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/color/48/postgreesql.png" width="40" height="40"/>
+
   <!-- Helix editor -->
   <img src="https://latestlogo.com/wp-content/uploads/2024/06/helix-editor.svg" alt="Helix" width="40" height="40"/>
 </p>
